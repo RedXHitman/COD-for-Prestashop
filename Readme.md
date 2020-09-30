@@ -2,7 +2,7 @@
 
 ---
 
-**This module has reached end-of-life and is no longer maintained.**
+**This module has reached end-of-life and is  longer maintained.**
 
 It has been remade for PrestaShop 1.7: https://github.com/PrestaShop/ps_cashondelivery
 
@@ -10,4 +10,4 @@ It has been remade for PrestaShop 1.7: https://github.com/PrestaShop/ps_cashonde
 
 ## About
 
-Accept cash on delivery payments in PrestaShop 1.6.
+Accept cash on delivery payments in PrestaShop 1.6.75
